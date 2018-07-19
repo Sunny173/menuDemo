@@ -3,7 +3,7 @@
 
 # 1.想要模仿的效果是这个样子的
 
-![](https://img-blog.csdn.net/20161025110330370?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![image.png](https://upload-images.jianshu.io/upload_images/9093439-f42ea6980aacfabc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 2.项目思路：
 ## 1.布局编写
@@ -28,10 +28,11 @@
 
 最后实现效果如下
 
-![两个列表互相影响选择.gif](https://upload-images.jianshu.io/upload_images/9093439-616220ee163fa966.gif?imageMogr2/auto-orient/strip)
+![两个列表互相影响选择.gif](https://upload-images.jianshu.io/upload_images/9093439-455c9da626cc591f.gif?imageMogr2/auto-orient/strip)
 
 ------
 【参考链接】
+
 [仿美团饿了么选菜界面实现](https://blog.csdn.net/aa4100123/article/details/52919684)
 
 [使用ItemDecoration为RecyclerView打造带悬停头部的分组列表](https://blog.csdn.net/zxt0601/article/details/52355199)
