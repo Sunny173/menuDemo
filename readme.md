@@ -28,7 +28,7 @@
 
 最后实现效果如下
 
-![两个列表互相影响选择.gif](https://upload-images.jianshu.io/upload_images/9093439-455c9da626cc591f.gif?imageMogr2/auto-orient/strip)
+![两个列表互相影响选择.gif](https://upload-images.jianshu.io/upload_images/9093439-455c9da626cc591f.gif)
 
 ------
 【参考链接】
